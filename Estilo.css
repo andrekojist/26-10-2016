@@ -1,0 +1,87 @@
+img {
+	max-width: 100px;
+	max-height: 100px;
+}
+
+.cabecalho {
+
+}
+
+.imagem {
+	display: inline-block;
+}
+
+.links {
+	display: inline-block;
+}
+
+.bw {
+	display: inline-block;
+}
+
+.montagem {
+	display: inline-block;
+}
+
+h1 {
+    text-align: center;
+}
+
+.nomeficha {
+	width: 90%;
+}
+
+.nomeficha input {
+	width: 90%;
+}
+
+.data {
+	
+}
+
+.datainicial {
+	width: 500px;
+	display: inline-block;
+}
+
+.datafinal {
+	width: 500px;
+	display: inline-block;
+}
+
+.button {
+	background-position: right;
+}
+
+.button button{
+	background-position: right;
+}
+
+.legenda {
+	display: inline-block;
+}
+
+.legenda {
+	list-style: none;
+}
+
+.green {
+	background-color: green;
+}
+
+.red {
+	background-color: red;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.gray {
+	background-color: gray;
+}
+
+span.marcador {
+	border-radius: 12px;
+	color: white;
+}
